@@ -3,4 +3,3 @@ Epilepsy Management Aid
 
 Management Aid
 
-Management Aid
